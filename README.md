@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+## NAME: KAMALESH S
+## REG NO:212223040083
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
